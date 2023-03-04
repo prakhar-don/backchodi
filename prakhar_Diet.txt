@@ -1,0 +1,1 @@
+[2023-03-01 20:19:43.921896]:python -u "c:\Users\DELL\OneDrive\Documents\python\tables\health management system.py"
